@@ -21,7 +21,7 @@ class VideoScrollableView extends StatelessWidget {
         return Stack(
           children: [
             // Video 
-
+            
             // Buttons
             VideoPlayerButtons(videoPost: video,), 
           ],
